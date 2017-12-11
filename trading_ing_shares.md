@@ -1,4 +1,4 @@
-#Trading ING stocks
+# Trading ING stocks
 
 Imagine that you are trading ING stocks and you would like to create a small program to maximize your profit.
 Suppose you could access yesterday's stock prices as an array, where:
