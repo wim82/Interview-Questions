@@ -17,3 +17,5 @@ When building the feature:
 
 * assume that the user is watching exactly 2 movies
 * user should not watch the same movie twice
+
+**OPTIONAL:** What if we wanted to fill the flight length as nicely as possible with any number of movies (not just 2)? 
