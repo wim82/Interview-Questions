@@ -1,8 +1,8 @@
 # In-flight entertainment system
 
 Imagine that you are working for an airline company. 
-Latelly they are receiving complaints from their customers regarding the in-flight entertainment system.
-The issus is that for the longer flights users would like to start a second movie when their first one ends, but the plane usually lands before they can see the ending.
+Lately they are receiving complaints from their customers regarding the in-flight entertainment system.
+The issue is that for the longer flights users would like to start a second movie when their first one ends, but the plane usually lands before they can see the ending.
 
 **Your task is to build a feature that will choose 2 movies whose total time is equal with the exact flight length.**
 
